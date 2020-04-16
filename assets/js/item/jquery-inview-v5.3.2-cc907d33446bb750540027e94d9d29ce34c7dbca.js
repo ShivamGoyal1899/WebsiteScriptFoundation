@@ -1,0 +1,5 @@
+/*! /assets/themes/ofiz/framework/js/jquery.inview.js */
+(function($){function getViewportHeight(){var height=window.innerHeight;var mode=document.compatMode;if((mode||!$.support.boxModel)){height=(mode=='CSS1Compat')?document.documentElement.clientHeight:document.body.clientHeight}
+return height}
+$(window).scroll(function(){var vpH=getViewportHeight(),scrolltop=(document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop),elems=[];$.each($.cache,function(){if(this.events&&this.events.inview){elems.push(this.handle.elem)}});if(elems.length){$(elems).each(function(){var $el=$(this),top=$el.offset().top,height=$el.height(),inview=$el.data('inview')||!1;if(scrolltop>(top+height)||scrolltop+vpH<top){if(inview){$el.data('inview',!1);$el.trigger('inview',[!1])}}else if(scrolltop<(top+height)){if(!inview){$el.data('inview',!0);$el.trigger('inview',[!0])}}})}});$(function(){$(window).scroll()})})(jQuery)
+;

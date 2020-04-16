@@ -1,0 +1,1301 @@
+/*! /assets/uploads/elementor/css/post-12101.css */
+.elementor-12101 .elementor-element.elementor-element-21c22603 {
+    text-align: left;
+}
+
+.elementor-12101 .elementor-element.elementor-element-21c22603>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-12101 .elementor-element.elementor-element-3d6fd1e>.elementor-widget-container {
+    margin: 0px 30px 0px 0px;
+}
+
+.elementor-12101 .elementor-element.elementor-element-3d6fd1e>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button .elementor-align-icon-right {
+    margin-left: 10px;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button .elementor-align-icon-left {
+    margin-right: 10px;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 a.elementor-button,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button {
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 50px 50px 50px 50px;
+    padding: 13px 28px 13px 28px;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 a.elementor-button:hover,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button:hover,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 a.elementor-button:focus,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button:focus {
+    color: #ffffff;
+    background-color: #1ed760;
+    border-color: #1ed760;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 a.elementor-button:hover svg,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button:hover svg,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 a.elementor-button:focus svg,
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button:focus svg {
+    fill: #ffffff;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1 .elementor-button {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #ffffff;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1>.elementor-widget-container {
+    margin: 8px 0px 0px 0px;
+}
+
+.elementor-12101 .elementor-element.elementor-element-34e17fe1>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-12101 .elementor-element.elementor-element-303fa125 {
+    padding: 20px 0px 0px 0px;
+}
+
+@media(min-width:768px) {
+    .elementor-12101 .elementor-element.elementor-element-3c0f6c1f {
+        width: 21.057%;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-7b5bc7b8 {
+        width: 62.607%;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-3bd37e8a {
+        width: 16%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-12101 .elementor-element.elementor-element-3c0f6c1f {
+        width: 100%;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-7b5bc7b8 {
+        width: 100%;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-3bd37e8a {
+        width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-12101 .elementor-element.elementor-element-21c22603 {
+        text-align: center;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-3d6fd1e>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-34e17fe1>.elementor-widget-container {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-303fa125 {
+        padding: 60px 0px 0px 0px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-12101 .elementor-element.elementor-element-3d6fd1e>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-12101 .elementor-element.elementor-element-303fa125 {
+        padding: 60px 10px 20px 10px;
+    }
+}
+
+/*! /assets/uploads/elementor/css/post-463.css */
+.elementor-463 .elementor-element.elementor-element-73d6f86:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-element-populated>.elementor-background-overlay,
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-463 .elementor-element.elementor-element-73d6f86>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-view-framed .elementor-icon,
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-463 .elementor-element.elementor-element-27342f1>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-62ec186 a.elementor-button,
+.elementor-463 .elementor-element.elementor-element-62ec186 .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-62ec186>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-62ec186>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-e1d13a6:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-element-populated>.elementor-background-overlay,
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-463 .elementor-element.elementor-element-e1d13a6>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-view-framed .elementor-icon,
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-463 .elementor-element.elementor-element-6e8287d>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-9ba9382 a.elementor-button,
+.elementor-463 .elementor-element.elementor-element-9ba9382 .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-9ba9382>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-9ba9382>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-14f7e74:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-element-populated,
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-element-populated>.elementor-background-overlay,
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-463 .elementor-element.elementor-element-14f7e74>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-view-framed .elementor-icon,
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-463 .elementor-element.elementor-element-1a748eb>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-a562595 a.elementor-button,
+.elementor-463 .elementor-element.elementor-element-a562595 .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-a562595>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-463 .elementor-element.elementor-element-a562595>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-463 .elementor-element.elementor-element-deedbdc {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@media(max-width:767px) {
+    .elementor-463 .elementor-element.elementor-element-27342f1 .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+
+    .elementor-463 .elementor-element.elementor-element-6e8287d .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+
+    .elementor-463 .elementor-element.elementor-element-1a748eb .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+}
+
+/*! /assets/uploads/elementor/css/post-22308.css */
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-element-populated>.elementor-background-overlay,
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-b2d3bd4>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-view-framed .elementor-icon,
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-32f9945>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-37b8aba a.elementor-button,
+.elementor-22308 .elementor-element.elementor-element-37b8aba .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-37b8aba>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-37b8aba>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-3567550:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-element-populated>.elementor-background-overlay,
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-3567550>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-view-framed .elementor-icon,
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-0e91dd8>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-ee0cc14 a.elementor-button,
+.elementor-22308 .elementor-element.elementor-element-ee0cc14 .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-ee0cc14>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-ee0cc14>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-19aabd5:not(.elementor-motion-effects-element-type-background)>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-element-populated,
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-element-populated>.elementor-background-overlay,
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.07);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 65px 30px 65px 30px;
+    padding: 35px 40px 17px 40px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-19aabd5>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-view-stacked .elementor-icon {
+    background-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-view-framed .elementor-icon,
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-view-default .elementor-icon {
+    fill: #000000;
+    color: #000000;
+    border-color: #000000;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 5px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon {
+    font-size: 75px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon-box-title {
+    margin-bottom: 23px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #252525;
+    font-size: 22px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d0f1a04>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-6c14991 a.elementor-button,
+.elementor-22308 .elementor-element.elementor-element-6c14991 .elementor-button {
+    font-size: 20px;
+    line-height: 18px;
+    fill: #222222;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 17px 17px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-6c14991>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-22308 .elementor-element.elementor-element-6c14991>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22308 .elementor-element.elementor-element-d32d561 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@media(max-width:767px) {
+    .elementor-22308 .elementor-element.elementor-element-32f9945 .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+
+    .elementor-22308 .elementor-element.elementor-element-0e91dd8 .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+
+    .elementor-22308 .elementor-element.elementor-element-d0f1a04 .elementor-icon-box-icon {
+        margin-bottom: 5px;
+    }
+}
+
+/*! /assets/uploads/elementor/css/post-809.css */
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-809 .elementor-element.elementor-element-68f17cb>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-809 .elementor-element.elementor-element-3c65d6c>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-809 .elementor-element.elementor-element-7d41b9b>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+/*! /assets/uploads/elementor/css/post-21548.css */
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438 .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-21548 .elementor-element.elementor-element-37a9438>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5 .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-21548 .elementor-element.elementor-element-7dda8f5>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__name .jet-team-member__name-first {
+    color: #252525;
+    font-size: 24px;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__name {
+    text-align: center;
+    order: 1;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__position {
+    color: #474747;
+    font-size: 18px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__socials {
+    align-self: center;
+    order: 4;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__socials-icon .jet-elements-icon {
+    color: #696969;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__socials-icon:hover .jet-elements-icon {
+    color: #000000;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__button-container {
+    justify-content: center;
+    order: 5;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b .jet-team-member__cover {
+    justify-content: center;
+}
+
+.elementor-21548 .elementor-element.elementor-element-9e6083b>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+/*! /assets/uploads/elementor/css/post-22747.css */
+.elementor-22747 .elementor-element.elementor-element-371eb5ed>.elementor-element-populated {
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-69db620b>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-21f6b81a {
+    text-align: left;
+}
+
+.elementor-22747 .elementor-element.elementor-element-21f6b81a>.elementor-widget-container {
+    margin: 18px 0px -10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-21f6b81a>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-5da8b046>.elementor-widget-container {
+    padding: 0% 38% 0% 0%;
+}
+
+.elementor-22747 .elementor-element.elementor-element-5da8b046>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-a23577f>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1838422 .elementor-spacer-inner {
+    height: 5px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1838422>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-450878e3.elementor-widget-heading .elementor-heading-title {
+    color: #181823;
+}
+
+.elementor-22747 .elementor-element.elementor-element-450878e3 .elementor-heading-title {
+    font-size: 22px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-450878e3>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-450878e3>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3957ec0e.elementor-widget-heading .elementor-heading-title {
+    color: #696969;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3957ec0e>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3957ec0e>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-d1b56a2.elementor-widget-heading .elementor-heading-title {
+    color: #696969;
+}
+
+.elementor-22747 .elementor-element.elementor-element-d1b56a2>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-d1b56a2>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-e59da1d.elementor-widget-heading .elementor-heading-title {
+    color: #474747;
+}
+
+.elementor-22747 .elementor-element.elementor-element-e59da1d>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-56a43c39>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-29c23369 .elementor-spacer-inner {
+    height: 5px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-29c23369>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-52f0090f.elementor-widget-heading .elementor-heading-title {
+    color: #181823;
+}
+
+.elementor-22747 .elementor-element.elementor-element-52f0090f .elementor-heading-title {
+    font-size: 22px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-52f0090f>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-52f0090f>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1f83ad3d.elementor-widget-heading .elementor-heading-title {
+    color: #696969;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1f83ad3d>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1f83ad3d>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-7b05659a.elementor-widget-heading .elementor-heading-title {
+    color: #696969;
+}
+
+.elementor-22747 .elementor-element.elementor-element-7b05659a>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-7b05659a>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3e0d7ae.elementor-widget-heading .elementor-heading-title {
+    color: #696969;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3e0d7ae>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-3e0d7ae>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-1404f092>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-cea2674 .elementor-spacer-inner {
+    height: 5px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-cea2674>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-6a767864.elementor-widget-heading .elementor-heading-title {
+    color: #181823;
+}
+
+.elementor-22747 .elementor-element.elementor-element-6a767864 .elementor-heading-title {
+    font-size: 22px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-6a767864>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-6a767864>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-25ba88e1 {
+    text-align: left;
+}
+
+.elementor-22747 .elementor-element.elementor-element-25ba88e1>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-24115fd .elementor-spacer-inner {
+    height: 76px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-24115fd>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-0c97209>.elementor-element-populated {
+    padding: 10px 10px 10px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-c72a44f .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-22747 .elementor-element.elementor-element-c72a44f>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-44b07b4>.tippy-popper .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+.elementor-22747 .elementor-element.elementor-element-60a406c {
+    padding: 0px 0px 20px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-676d1f7a:not(.elementor-motion-effects-element-type-background),
+.elementor-22747 .elementor-element.elementor-element-676d1f7a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #252525;
+}
+
+.elementor-22747 .elementor-element.elementor-element-676d1f7a {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #e4e4e4;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 55px 0px 0px 0px;
+}
+
+.elementor-22747 .elementor-element.elementor-element-676d1f7a>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-22747 .elementor-element.elementor-element-371eb5ed {
+        width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-22747 .elementor-element.elementor-element-371eb5ed>.elementor-element-populated {
+        padding: 10px 10px 10px 10px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-29c23369 .elementor-spacer-inner {
+        height: 0px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-cea2674 .elementor-spacer-inner {
+        height: 0px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-c72a44f .elementor-text-editor {
+        text-align: left;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-22747 .elementor-element.elementor-element-371eb5ed>.elementor-element-populated {
+        padding: 10px 10px 10px 10px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-5da8b046>.elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-29c23369 .elementor-spacer-inner {
+        height: 0px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-cea2674 .elementor-spacer-inner {
+        height: 0px;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-c72a44f .elementor-text-editor {
+        text-align: center;
+    }
+
+    .elementor-22747 .elementor-element.elementor-element-676d1f7a {
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+/*! /assets/plugins/elementor/assets/lib/font-awesome/css/brands.min.css */
+/*!
+ * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+    font-family: "Font Awesome 5 Brands";
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url(../fonts/font-awesome/fa-brands-400.eot);
+    src: url(../fonts/font-awesome/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../fonts/font-awesome/fa-brands-400.woff2) format("woff2"), url(../fonts/font-awesome/fa-brands-400.woff) format("woff"), url(../fonts/font-awesome/fa-brands-400.ttf) format("truetype"), url(../fonts/font-awesome/fa-brands-400.svg#fontawesome) format("svg")
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands"
+}
