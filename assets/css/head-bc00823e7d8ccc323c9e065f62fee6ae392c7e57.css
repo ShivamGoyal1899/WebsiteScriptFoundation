@@ -83368,7 +83368,7 @@ div.dark_square #pp_full_res .pp_inline {
 /*! /wp-content/themes/ofiz/css/icon-moon.css */
 @font-face {
     font-family: 'IcoMoon-Ultimate';
-    src: url(/wp-content/themes/ofiz/css/../fonts/IcoMoon-Ultimate.ttf) format('truetype');
+    src: url(../fonts/IcoMoon-Ultimate.ttf) format('truetype');
     font-weight: 400;
     font-style: normal
 }
