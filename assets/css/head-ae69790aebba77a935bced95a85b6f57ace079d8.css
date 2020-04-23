@@ -43312,7 +43312,8 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 
 .elementor-widget-image-carousel .swiper-slide {
-    text-align: center
+    text-align: center;
+    align-self: center
 }
 
 .elementor-image-gallery figure img {
@@ -44595,7 +44596,8 @@ body.elementor-page .elementor-widget-menu-anchor {
     flex-shrink: 0;
     width: 100%;
     height: 100%;
-    position: relative
+    position: relative;
+    padding: 15px
 }
 
 .swiper-container-autoheight,
@@ -73879,7 +73881,7 @@ a.video-image span:hover:after {
 
 .slick-slide,
 .elementor-widget-image-carousel .swiper-slide {
-    cursor: move
+    /* cursor: move */
 }
 
 .services-list span.dt-skin-primary-color {
